@@ -1,0 +1,23 @@
+void Prologue();
+void ChapterOne();
+int Node_1();
+int Node_2();
+int Node_3();
+int Node_4();
+int Node_5();
+int Node_6();
+int Node_7();
+int Node_9();
+int Node_10();
+int Node_11();
+bool Node_12();
+int Node_13();
+int Node_14();
+int Node_15();
+int Node_16();
+int Node_17();
+int Node_18();
+
+int Battle_Node_1();
+int Battle_Node_2();
+int Battle_Node_3();
